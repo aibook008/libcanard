@@ -1,3 +1,5 @@
 [submodule "drivers/avr/avr-can-lib"]
 	path = drivers/avr/avr-can-lib
-	url = https://github.com/rennerm/avr-can-lib
+	url = git@github.com:aibook008/avr-can-lib.git
+	branch = qhz/avr-can-lib
+
